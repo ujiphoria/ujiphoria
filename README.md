@@ -1,56 +1,56 @@
-<!-- Ganti semua "USERNAME" dengan username GitHub kamu. Warna aksen: FFD177 (kuning emas), ganti jika ingin warna lain. -->
+<!-- Replace every "USERNAME" with your GitHub username. Accent color: FFD177 (golden yellow), change it if you want another color. -->
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ujiphoria&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117)](https://github.com/USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=ujiphoria&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117)](https://github.com/ujiphoria)
 
 # Ujiphoria
 
 #### Front-End Developer | Graphic Designer
 
-[![Typing Header](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Membangun+antarmuka+web+yang+cepat+dan+mudah+diakses;Merancang+visual+yang+kuat+dan+berkesan;Menjembatani+desain+dan+kode+menjadi+satu;Terbuka+untuk+magang%2C+freelance%2C+dan+kolaborasi)](https://github.com/ujiphori)
+[![Typing Header](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+fast+and+accessible+web+interfaces;Crafting+bold+and+memorable+visuals;Bridging+design+and+code+as+one;Open+to+internships%2C+freelance%2C+and+collaboration)](https://github.com/ujiphoria)
 
-<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" height="16" alt="Lokasi" /> Bandung, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" height="16" alt="Pendidikan" /> SMA Negeri 1 Lembang
+<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" height="16" alt="Location" /> Bandung, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" height="16" alt="Education" /> SMA Negeri 1 Lembang
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Karya-FFD177?style=for-the-badge&labelColor=0d1117)](https://USERNAME.dev)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:emailkamu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-FFD177?style=for-the-badge&labelColor=0d1117)](https://USERNAME.dev)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:youremail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/USERNAME)
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/tabler:user-star.svg?color=%23FFD177" width="24" align="center" alt="" /> Tentang Saya & Pengalaman
+## <img src="https://api.iconify.design/tabler:user-star.svg?color=%23FFD177" width="24" align="center" alt="" /> About Me & Featured Experience
 
 ```js
 const developer = {
-    nama:           "Nazhif Dhiyaul Wafa Arifin",
-    lokasi:         "Bandung, Indonesia",
-    pendidikan:     "SMA Negeri 1 Lembang",
-    peran:          ["Front-End Developer", "Graphic Designer"],
-    fokusSaatIni:   [
+    name:           "Nazhif Dhiyaul Wafa Arifin",
+    location:       "Bandung, Indonesia",
+    education:      "SMA Negeri 1 Lembang",
+    roles:          ["Front-End Developer", "Graphic Designer"],
+    currentFocus:   [
         "React & Next.js",
-        "Performa & aksesibilitas web",
-        "Komponen UI & design system",
-        "Identitas visual & desain grafis"
+        "Web performance & accessibility",
+        "UI components & design systems",
+        "Visual identity & graphic design"
     ],
-    terbukaUntuk:   ["Magang", "Freelance", "Kolaborasi"]
+    openTo:         ["Internships", "Freelance Work", "Collaboration"]
 };
 ```
 
-> 💡 **Menjembatani desain dan kode:** Tulis 2 sampai 3 kalimat tentang bagaimana kemampuan desain grafis membuat kode front-end-mu lebih baik, dan sebaliknya. Sebut hasil nyatanya, misalnya proyek yang kamu rancang visualnya sekaligus kamu bangun sendiri sampai live.
+> 💡 **Bridging Design & Code:** Write 2 to 3 sentences about how your graphic design skills make your front-end code better, and the other way around. Mention real results, for example a project where you designed the visuals and built it yourself all the way to launch.
 
-**💬 Tanya saya tentang perjalanan & pengalaman saya**
+**💬 Ask me about my journey & what it taught me**
 
-| Bidang                     | Yang bisa saya bagikan                                                                  |
-| -------------------------- | --------------------------------------------------------------------------------------- |
-| **UI & Komponen**          | Membangun komponen yang reusable, konsisten, dan mudah dirawat.                         |
-| **Performa Web**           | Optimasi loading, ukuran bundle, dan Core Web Vitals.                                   |
-| **Aksesibilitas**          | Membuat antarmuka yang bisa dipakai semua orang (semantic HTML, ARIA, keyboard nav).    |
-| **Responsive Design**      | Layout yang rapi dari layar ponsel sampai desktop.                                      |
-| **Workflow Developer**     | Git, code review, dan deployment otomatis ke Vercel / Netlify.                          |
-| **Desain Grafis**          | Identitas visual, poster, dan aset digital yang konsisten dengan brand.                 |
-| **Desain ke Kode**         | Menerjemahkan file Figma menjadi UI yang presisi dan siap pakai.                        |
+| Area                     | What I can share                                                                       |
+| ------------------------ | -------------------------------------------------------------------------------------- |
+| **UI & Components**      | Building reusable, consistent, and maintainable components.                            |
+| **Web Performance**      | Optimizing load time, bundle size, and Core Web Vitals.                                |
+| **Accessibility**        | Creating interfaces everyone can use (semantic HTML, ARIA, keyboard navigation).       |
+| **Responsive Design**    | Clean layouts from mobile screens to large desktops.                                   |
+| **Developer Workflow**   | Git, code reviews, and automated deployment to Vercel / Netlify.                       |
+| **Graphic Design**       | Visual identities, posters, and digital assets that stay consistent with the brand.    |
+| **Design to Code**       | Turning Figma files into precise, production-ready UI.                                 |
 
 ---
 
@@ -89,6 +89,13 @@ const developer = {
 
 ---
 
+## <img src="https://api.iconify.design/tabler:palette.svg?color=%23FFD177" width="24" align="center" alt="" /> Design Works
+
+[![Behance](https://img.shields.io/badge/Behance-View%20Work-FFD177?style=for-the-badge&logo=behance&logoColor=FFD177&labelColor=0d1117)](https://behance.net/USERNAME)
+[![Dribbble](https://img.shields.io/badge/Dribbble-View%20Work-FFD177?style=for-the-badge&logo=dribbble&logoColor=FFD177&labelColor=0d1117)](https://dribbble.com/USERNAME)
+
+---
+
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23FFD177" width="24" align="center" alt="" /> GitHub Analytics
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujiphoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
@@ -104,10 +111,10 @@ const developer = {
 
 ---
 
-## <img src="https://api.iconify.design/tabler:mail.svg?color=%23FFD177" width="24" align="center" alt="" /> Kontak
+## <img src="https://api.iconify.design/tabler:mail.svg?color=%23FFD177" width="24" align="center" alt="" /> Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FUSERNAME-FFD177?style=for-the-badge&logo=linkedin&logoColor=FFD177&labelColor=0d1117)](https://linkedin.com/in/USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-%40USERNAME-FFD177?style=for-the-badge&logo=github&logoColor=FFD177&labelColor=0d1117)](https://github.com/ujiphoria)
-[![Instagram](https://img.shields.io/badge/Instagram-%40USERNAME-FFD177?style=for-the-badge&logo=instagram&logoColor=FFD177&labelColor=0d1117)](https://instagram.com/ujiphoria)
+[![GitHub](https://img.shields.io/badge/GitHub-%40ujiphoria-FFD177?style=for-the-badge&logo=github&logoColor=FFD177&labelColor=0d1117)](https://github.com/ujiphoria)
+[![Instagram](https://img.shields.io/badge/Instagram-%40ujiphoria-FFD177?style=for-the-badge&logo=instagram&logoColor=FFD177&labelColor=0d1117)](https://instagram.com/ujiphoria)
 [![Behance](https://img.shields.io/badge/Behance-%40USERNAME-FFD177?style=for-the-badge&logo=behance&logoColor=FFD177&labelColor=0d1117)](https://behance.net/USERNAME)
-[![Email](https://img.shields.io/badge/Email-emailkamu%40gmail.com-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117)](mailto:azipangestu2009@gmail.com)
+[![Email](https://img.shields.io/badge/Email-youremail%40gmail.com-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117)](mailto:youremail@gmail.com)
