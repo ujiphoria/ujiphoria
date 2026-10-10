@@ -48,8 +48,8 @@ Saya **Front-End Developer** yang senang mengubah desain menjadi website yang ce
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ujiphoria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Saya **Front-End Developer** yang senang mengubah desain menjadi website yang ce
 ### 📈 Grafik Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujiphoria&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph" width="100%" />
 </p>
 
 ### 🐍 Ular Pemakan Kontribusi
@@ -72,7 +72,7 @@ Saya **Front-End Developer** yang senang mengubah desain menjadi website yang ce
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -82,7 +82,7 @@ Saya **Front-End Developer** yang senang mengubah desain menjadi website yang ce
 
 <p align="center">
   <a href="mailto:azipangestu2009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ujiphoria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://USERNAME.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
 </p>
 
