@@ -89,13 +89,6 @@ const developer = {
 
 ---
 
-## <img src="https://api.iconify.design/lucide:palette.svg?color=%23FF375F" width="24" align="center" alt="" /> Design Works
-
-[![Behance](https://img.shields.io/badge/Behance-View%20Work-0A84FF?style=for-the-badge&logo=behance&logoColor=0A84FF&labelColor=1C1C1E)](https://behance.net/USERNAME)
-[![Dribbble](https://img.shields.io/badge/Dribbble-View%20Work-0A84FF?style=for-the-badge&logo=dribbble&logoColor=0A84FF&labelColor=1C1C1E)](https://dribbble.com/USERNAME)
-
----
-
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%23BF5AF2" width="24" align="center" alt="" /> GitHub Analytics
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujiphoria&show_icons=true&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&ring_color=0A84FF&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
