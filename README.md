@@ -2,18 +2,18 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ujiphoria&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117)](https://github.com/ujiphoria)
+[![Profile Views](https://komarev.com/ghpvc/?username=ujiphoria&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117)](https://github.com/USERNAME)
 
 # Ujiphoria
 
-#### Front-End Developer | UI Enthusiast
+#### Front-End Developer | Graphic Designer
 
-[![Typing Header](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Membangun+antarmuka+web+yang+cepat+dan+mudah+diakses;Mengubah+desain+menjadi+UI+yang+pixel-perfect;Terus+belajar+teknologi+front-end+terbaru;Terbuka+untuk+magang%2C+freelance%2C+dan+kolaborasi)](https://github.com/USERNAME)
+[![Typing Header](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Membangun+antarmuka+web+yang+cepat+dan+mudah+diakses;Merancang+visual+yang+kuat+dan+berkesan;Menjembatani+desain+dan+kode+menjadi+satu;Terbuka+untuk+magang%2C+freelance%2C+dan+kolaborasi)](https://github.com/ujiphori)
 
 <img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" height="16" alt="Lokasi" /> Bandung, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" height="16" alt="Pendidikan" /> SMA Negeri 1 Lembang
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Karya-FFD177?style=for-the-badge&labelColor=0d1117)](https://USERNAME.dev)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:azipangestu2009@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:emailkamu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/USERNAME)
 
 </div>
@@ -27,17 +27,18 @@ const developer = {
     nama:           "Nazhif Dhiyaul Wafa Arifin",
     lokasi:         "Bandung, Indonesia",
     pendidikan:     "SMA Negeri 1 Lembang",
-    peran:          ["Front-End Developer"],
+    peran:          ["Front-End Developer", "Graphic Designer"],
     fokusSaatIni:   [
         "React & Next.js",
         "Performa & aksesibilitas web",
-        "Komponen UI & design system"
+        "Komponen UI & design system",
+        "Identitas visual & desain grafis"
     ],
-    terbukaUntuk:   ["Internships", "Freelance Work", "Collaboration"]
+    terbukaUntuk:   ["Magang", "Freelance", "Kolaborasi"]
 };
 ```
 
-> 💡 **Dari desain ke pengalaman nyata:** Tulis 2 sampai 3 kalimat tentang perjalananmu, misalnya proyek yang paling kamu banggakan dan apa yang kamu pelajari darinya. Sebut hasil nyatanya, seperti jumlah pengguna, peningkatan performa, atau masalah yang berhasil kamu selesaikan.
+> 💡 **Menjembatani desain dan kode:** Tulis 2 sampai 3 kalimat tentang bagaimana kemampuan desain grafis membuat kode front-end-mu lebih baik, dan sebaliknya. Sebut hasil nyatanya, misalnya proyek yang kamu rancang visualnya sekaligus kamu bangun sendiri sampai live.
 
 **💬 Tanya saya tentang perjalanan & pengalaman saya**
 
@@ -48,6 +49,8 @@ const developer = {
 | **Aksesibilitas**          | Membuat antarmuka yang bisa dipakai semua orang (semantic HTML, ARIA, keyboard nav).    |
 | **Responsive Design**      | Layout yang rapi dari layar ponsel sampai desktop.                                      |
 | **Workflow Developer**     | Git, code review, dan deployment otomatis ke Vercel / Netlify.                          |
+| **Desain Grafis**          | Identitas visual, poster, dan aset digital yang konsisten dengan brand.                 |
+| **Desain ke Kode**         | Menerjemahkan file Figma menjadi UI yang presisi dan siap pakai.                        |
 
 ---
 
@@ -67,7 +70,13 @@ const developer = {
 [![Bootstrap](https://api.iconify.design/simple-icons:bootstrap.svg?color=%23FFD177 "Bootstrap")](https://getbootstrap.com)
 [![Framer](https://api.iconify.design/simple-icons:framer.svg?color=%23FFD177 "Framer Motion")](https://www.framer.com/motion)
 [![Storybook](https://api.iconify.design/simple-icons:storybook.svg?color=%23FFD177 "Storybook")](https://storybook.js.org)
+
 [![Figma](https://api.iconify.design/simple-icons:figma.svg?color=%23FFD177 "Figma")](https://figma.com)
+[![Canva](https://api.iconify.design/simple-icons:canva.svg?color=%23FFD177 "Canva")](https://canva.com)
+[![Photoshop](https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%23FFD177 "Photoshop")](https://adobe.com/products/photoshop)
+[![Illustrator](https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%23FFD177 "Illustrator")](https://adobe.com/products/illustrator)
+[![After Effects](https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%23FFD177 "After Effects")](https://adobe.com/products/aftereffects)
+[![Premiere Pro](https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%23FFD177 "Premiere Pro")](https://adobe.com/products/premiere)
 
 [![Git](https://api.iconify.design/simple-icons:git.svg?color=%23FFD177 "Git")](https://git-scm.com)
 [![GitHub](https://api.iconify.design/simple-icons:github.svg?color=%23FFD177 "GitHub")](https://github.com)
@@ -82,7 +91,7 @@ const developer = {
 
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23FFD177" width="24" align="center" alt="" /> GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujiphoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=c9d1d9&langs_count=8)](https://github.com/ujiphoria)
 [![Streak](https://streak-stats.demolab.com?user=ujiphoria&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFD177&sideNums=FFD177)](https://github.com/ujiphoria)
@@ -90,7 +99,7 @@ const developer = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/ujiphoria/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
 </picture>
 
 ---
@@ -98,6 +107,7 @@ const developer = {
 ## <img src="https://api.iconify.design/tabler:mail.svg?color=%23FFD177" width="24" align="center" alt="" /> Kontak
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FUSERNAME-FFD177?style=for-the-badge&logo=linkedin&logoColor=FFD177&labelColor=0d1117)](https://linkedin.com/in/USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-%40USERNAME-FFD177?style=for-the-badge&logo=github&logoColor=FFD177&labelColor=0d1117)](https://github.com/USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-%40USERNAME-FFD177?style=for-the-badge&logo=instagram&logoColor=FFD177&labelColor=0d1117)](https://instagram.com/USERNAME)
-[![Email](https://img.shields.io/badge/Email-emailkamu%40gmail.com-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117)](mailto:emailkamu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%40USERNAME-FFD177?style=for-the-badge&logo=github&logoColor=FFD177&labelColor=0d1117)](https://github.com/ujiphoria)
+[![Instagram](https://img.shields.io/badge/Instagram-%40USERNAME-FFD177?style=for-the-badge&logo=instagram&logoColor=FFD177&labelColor=0d1117)](https://instagram.com/ujiphoria)
+[![Behance](https://img.shields.io/badge/Behance-%40USERNAME-FFD177?style=for-the-badge&logo=behance&logoColor=FFD177&labelColor=0d1117)](https://behance.net/USERNAME)
+[![Email](https://img.shields.io/badge/Email-emailkamu%40gmail.com-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117)](mailto:azipangestu2009@gmail.com)
