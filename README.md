@@ -10,7 +10,7 @@
 
 [![Typing Header](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Membangun+antarmuka+web+yang+cepat+dan+mudah+diakses;Mengubah+desain+menjadi+UI+yang+pixel-perfect;Terus+belajar+teknologi+front-end+terbaru;Terbuka+untuk+magang%2C+freelance%2C+dan+kolaborasi)](https://github.com/USERNAME)
 
-<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" height="16" alt="Lokasi" /> Bandunf, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" height="16" alt="Pendidikan" /> Jurusan, Nama Universitas
+<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" height="16" alt="Lokasi" /> Bandung, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" height="16" alt="Pendidikan" /> SMA Negeri 1 Lembang
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Karya-FFD177?style=for-the-badge&labelColor=0d1117)](https://USERNAME.dev)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:emailkamu@gmail.com)
@@ -25,8 +25,8 @@
 ```js
 const developer = {
     nama:           "Nazhif Dhiyaul Wafa Arifin",
-    lokasi:         "Kota, Indonesia",
-    pendidikan:     "Jurusan — Nama Universitas",
+    lokasi:         "Bandung, Indonesia",
+    pendidikan:     "SMA Negeri 1 Lembang",
     peran:          ["Front-End Developer"],
     fokusSaatIni:   [
         "React & Next.js",
@@ -83,22 +83,22 @@ const developer = {
 
 ## <img src="https://api.iconify.design/tabler:rocket.svg?color=%23FFD177" width="24" align="center" alt="" /> Proyek Pilihan
 
-<a href="https://github.com/USERNAME/repo-1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=USERNAME&repo=repo-1&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 1" /></a>
-<a href="https://github.com/USERNAME/repo-2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=USERNAME&repo=repo-2&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 2" /></a>
+<a href="https://github.com/ujiphoria/repo-1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ujiphoria&repo=repo-1&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 1" /></a>
+<a href="https://github.com/ujiphoria/repo-2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ujiphoria&repo=repo-2&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 2" /></a>
 
 ---
 
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23FFD177" width="24" align="center" alt="" /> GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/USERNAME)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujiphoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=c9d1d9&langs_count=8)](https://github.com/USERNAME)
-[![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFD177&sideNums=FFD177)](https://github.com/USERNAME)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=c9d1d9&langs_count=8)](https://github.com/ujiphoria)
+[![Streak](https://streak-stats.demolab.com?user=ujiphoria&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFD177&sideNums=FFD177)](https://github.com/ujiphoria)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/ujiphoria/output/github-snake.svg" />
 </picture>
 
 ---
