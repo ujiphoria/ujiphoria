@@ -24,7 +24,7 @@
   <!-- teks -->
   <g text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#ffffff">
     <text x="500" y="105" font-size="58" font-weight="700" opacity="0">
-      Nama Kamu
+      Ujiphoria
       <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
     </text>
     <text x="500" y="150" font-size="22" opacity="0" letter-spacing="2">
