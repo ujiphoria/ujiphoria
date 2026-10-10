@@ -13,7 +13,7 @@
 <img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" height="16" alt="Lokasi" /> Bandung, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" height="16" alt="Pendidikan" /> SMA Negeri 1 Lembang
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Karya-FFD177?style=for-the-badge&labelColor=0d1117)](https://USERNAME.dev)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:emailkamu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:azipangestu2009@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/USERNAME)
 
 </div>
@@ -33,7 +33,6 @@ const developer = {
         "Performa & aksesibilitas web",
         "Komponen UI & design system"
     ],
-    proyekUnggulan: "Nama Proyek / Perusahaan",
     terbukaUntuk:   ["Internships", "Freelance Work", "Collaboration"]
 };
 ```
