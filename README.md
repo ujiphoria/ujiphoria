@@ -1,8 +1,8 @@
 <!-- Ganti semua "USERNAME" dengan username GitHub kamu, dan "Nama Kamu" dengan namamu -->
 
-<!-- ===== HEADER ANIMASI (gelombang bergerak) ===== -->
+<!-- ===== HEADER ANIMASI (gelombang bergerak, file lokal) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nama%20Kamu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%26%20Graphic%20Designer&descSize=20&descAlignY=58" alt="Header" />
+  <img src="./assets/header.svg" width="100%" alt="Header" />
 </p>
 
 <!-- ===== TEKS MENGETIK ===== -->
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## ✨ Tentang Saya
 
@@ -27,7 +27,7 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
 - 🌱 Sedang terus belajar dan mengeksplorasi hal baru di dunia web & desain.
 - 🤝 Terbuka untuk kolaborasi, proyek komunitas, dan diskusi seputar desain dan pengembangan web.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +41,7 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,pr&perline=6" alt="Design tools" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## 🚀 Proyek Pilihan
 
@@ -51,7 +51,7 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
 | 🔗 **[Nama Proyek 2](https://github.com/USERNAME/repo-2)** | Deskripsi singkat proyek dalam satu kalimat. | `HTML` `CSS` `JS` |
 | 🔗 **[Nama Proyek 3](https://github.com/USERNAME/repo-3)** | Deskripsi singkat proyek dalam satu kalimat. | `Next.js` `TypeScript` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## 🎨 Portofolio Desain
 
@@ -61,7 +61,7 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
   <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
@@ -88,13 +88,13 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ## 📫 Mari Terhubung
 
@@ -110,5 +110,5 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
 
 <!-- ===== FOOTER ANIMASI ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </p>
