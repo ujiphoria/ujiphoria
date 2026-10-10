@@ -91,7 +91,7 @@ const developer = {
 
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23FFD177" width="24" align="center" alt="" /> GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujiphoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=c9d1d9&langs_count=8)](https://github.com/ujiphoria)
 [![Streak](https://streak-stats.demolab.com?user=ujiphoria&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFD177&sideNums=FFD177)](https://github.com/ujiphoria)
