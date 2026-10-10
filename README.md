@@ -54,40 +54,53 @@ const developer = {
 
 ---
 
+<div align="center">
+
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23FF9F0A" width="24" align="center" alt="" /> Tech Stack & Tools
 
-[![HTML5](https://api.iconify.design/simple-icons:html5.svg?color=%230A84FF "HTML5")](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://api.iconify.design/simple-icons:css.svg?color=%230A84FF "CSS")](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://api.iconify.design/simple-icons:javascript.svg?color=%230A84FF "JavaScript")](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://api.iconify.design/simple-icons:typescript.svg?color=%230A84FF "TypeScript")](https://www.typescriptlang.org)
-[![React](https://api.iconify.design/simple-icons:react.svg?color=%230A84FF "React")](https://react.dev)
-[![Vue.js](https://api.iconify.design/simple-icons:vuedotjs.svg?color=%230A84FF "Vue.js")](https://vuejs.org)
-[![Next.js](https://api.iconify.design/simple-icons:nextdotjs.svg?color=%230A84FF "Next.js")](https://nextjs.org)
-[![Vite](https://api.iconify.design/simple-icons:vite.svg?color=%230A84FF "Vite")](https://vitejs.dev)
+<p align="center">
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://api.iconify.design/simple-icons:html5.svg?color=%230A84FF" width="48" height="48" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://api.iconify.design/simple-icons:css.svg?color=%230A84FF" width="48" height="48" alt="CSS" title="CSS" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://api.iconify.design/simple-icons:javascript.svg?color=%230A84FF" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org"><img src="https://api.iconify.design/simple-icons:typescript.svg?color=%230A84FF" width="48" height="48" alt="TypeScript" title="TypeScript" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev"><img src="https://api.iconify.design/simple-icons:react.svg?color=%230A84FF" width="48" height="48" alt="React" title="React" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org"><img src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%230A84FF" width="48" height="48" alt="Vue.js" title="Vue.js" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org"><img src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%230A84FF" width="48" height="48" alt="Next.js" title="Next.js" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vitejs.dev"><img src="https://api.iconify.design/simple-icons:vite.svg?color=%230A84FF" width="48" height="48" alt="Vite" title="Vite" /></a>
+</p>
 
-[![TailwindCSS](https://api.iconify.design/simple-icons:tailwindcss.svg?color=%230A84FF "TailwindCSS")](https://tailwindcss.com)
-[![Sass](https://api.iconify.design/simple-icons:sass.svg?color=%230A84FF "Sass")](https://sass-lang.com)
-[![Bootstrap](https://api.iconify.design/simple-icons:bootstrap.svg?color=%230A84FF "Bootstrap")](https://getbootstrap.com)
-[![Framer](https://api.iconify.design/simple-icons:framer.svg?color=%230A84FF "Framer Motion")](https://www.framer.com/motion)
-[![Storybook](https://api.iconify.design/simple-icons:storybook.svg?color=%230A84FF "Storybook")](https://storybook.js.org)
+<p align="center">
+  <a href="https://tailwindcss.com"><img src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%230A84FF" width="48" height="48" alt="TailwindCSS" title="TailwindCSS" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://sass-lang.com"><img src="https://api.iconify.design/simple-icons:sass.svg?color=%230A84FF" width="48" height="48" alt="Sass" title="Sass" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com"><img src="https://api.iconify.design/simple-icons:bootstrap.svg?color=%230A84FF" width="48" height="48" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.framer.com/motion"><img src="https://api.iconify.design/simple-icons:framer.svg?color=%230A84FF" width="48" height="48" alt="Framer" title="Framer Motion" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://storybook.js.org"><img src="https://api.iconify.design/simple-icons:storybook.svg?color=%230A84FF" width="48" height="48" alt="Storybook" title="Storybook" /></a>
+</p>
 
-[![Figma](https://api.iconify.design/simple-icons:figma.svg?color=%230A84FF "Figma")](https://figma.com)
-[![Canva](https://api.iconify.design/simple-icons:canva.svg?color=%230A84FF "Canva")](https://canva.com)
-[![Photoshop](https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%230A84FF "Photoshop")](https://adobe.com/products/photoshop)
-[![Illustrator](https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%230A84FF "Illustrator")](https://adobe.com/products/illustrator)
-[![After Effects](https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%230A84FF "After Effects")](https://adobe.com/products/aftereffects)
-[![Premiere Pro](https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%230A84FF "Premiere Pro")](https://adobe.com/products/premiere)
+<p align="center">
+  <a href="https://figma.com"><img src="https://api.iconify.design/simple-icons:figma.svg?color=%230A84FF" width="48" height="48" alt="Figma" title="Figma" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://canva.com"><img src="https://api.iconify.design/simple-icons:canva.svg?color=%230A84FF" width="48" height="48" alt="Canva" title="Canva" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://adobe.com/products/photoshop"><img src="https://api.iconify.design/simple-icons:adobephotoshop.svg?color=%230A84FF" width="48" height="48" alt="Photoshop" title="Photoshop" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://adobe.com/products/illustrator"><img src="https://api.iconify.design/simple-icons:adobeillustrator.svg?color=%230A84FF" width="48" height="48" alt="Illustrator" title="Illustrator" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://adobe.com/products/aftereffects"><img src="https://api.iconify.design/simple-icons:adobeaftereffects.svg?color=%230A84FF" width="48" height="48" alt="After Effects" title="After Effects" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://adobe.com/products/premiere"><img src="https://api.iconify.design/simple-icons:adobepremierepro.svg?color=%230A84FF" width="48" height="48" alt="Premiere Pro" title="Premiere Pro" /></a>
+</p>
 
-[![Git](https://api.iconify.design/simple-icons:git.svg?color=%230A84FF "Git")](https://git-scm.com)
-[![GitHub](https://api.iconify.design/simple-icons:github.svg?color=%230A84FF "GitHub")](https://github.com)
-[![npm](https://api.iconify.design/simple-icons:npm.svg?color=%230A84FF "npm")](https://npmjs.com)
-[![ESLint](https://api.iconify.design/simple-icons:eslint.svg?color=%230A84FF "ESLint")](https://eslint.org)
-[![Prettier](https://api.iconify.design/simple-icons:prettier.svg?color=%230A84FF "Prettier")](https://prettier.io)
-[![Vitest](https://api.iconify.design/simple-icons:vitest.svg?color=%230A84FF "Vitest")](https://vitest.dev)
-[![Vercel](https://api.iconify.design/simple-icons:vercel.svg?color=%230A84FF "Vercel")](https://vercel.com)
-[![Netlify](https://api.iconify.design/simple-icons:netlify.svg?color=%230A84FF "Netlify")](https://netlify.com)
+<p align="center">
+  <a href="https://git-scm.com"><img src="https://api.iconify.design/simple-icons:git.svg?color=%230A84FF" width="48" height="48" alt="Git" title="Git" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com"><img src="https://api.iconify.design/simple-icons:github.svg?color=%230A84FF" width="48" height="48" alt="GitHub" title="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://npmjs.com"><img src="https://api.iconify.design/simple-icons:npm.svg?color=%230A84FF" width="48" height="48" alt="npm" title="npm" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://eslint.org"><img src="https://api.iconify.design/simple-icons:eslint.svg?color=%230A84FF" width="48" height="48" alt="ESLint" title="ESLint" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://prettier.io"><img src="https://api.iconify.design/simple-icons:prettier.svg?color=%230A84FF" width="48" height="48" alt="Prettier" title="Prettier" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vitest.dev"><img src="https://api.iconify.design/simple-icons:vitest.svg?color=%230A84FF" width="48" height="48" alt="Vitest" title="Vitest" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com"><img src="https://api.iconify.design/simple-icons:vercel.svg?color=%230A84FF" width="48" height="48" alt="Vercel" title="Vercel" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://netlify.com"><img src="https://api.iconify.design/simple-icons:netlify.svg?color=%230A84FF" width="48" height="48" alt="Netlify" title="Netlify" /></a>
+</p>
 
+</div>
 ---
+
+<div align="center">
 
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%23BF5AF2" width="24" align="center" alt="" /> GitHub Analytics
 
@@ -102,6 +115,7 @@ const developer = {
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
 </picture>
 
+</div>
 ---
 
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%2364D2FF" width="24" align="center" alt="" /> Contact
