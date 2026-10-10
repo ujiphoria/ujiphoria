@@ -2,18 +2,18 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=0A84FF&style=flat-square&labelColor=1C1C1E)](https://github.com/USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=ujiphoria&label=Profile+Views&color=0A84FF&style=flat-square&labelColor=1C1C1E)](https://github.com/ujiphoria)
 
-# Your Name
+# Ujiphoria
 
 #### Front-End Developer | Graphic Designer
 
-[![Typing Header](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1200&color=0A84FF&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+fast+and+accessible+web+interfaces;Crafting+bold+and+memorable+visuals;Bridging+design+and+code+as+one;Open+to+internships%2C+freelance%2C+and+collaboration)](https://github.com/USERNAME)
+[![Typing Header](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1200&color=0A84FF&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+fast+and+accessible+web+interfaces;Crafting+bold+and+memorable+visuals;Bridging+design+and+code+as+one;Open+to+internships%2C+freelance%2C+and+collaboration)](https://github.com/ujiphoria)
 
-<img src="https://api.iconify.design/lucide:map-pin.svg?color=%23FF453A" height="16" alt="Location" /> City, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%230A84FF" height="16" alt="Education" /> Major, University Name
+<img src="https://api.iconify.design/lucide:map-pin.svg?color=%23FF453A" height="16" alt="Location" /> Bandung, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%230A84FF" height="16" alt="Education" /> SMA Negeri 1 Lembang
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-0A84FF?style=for-the-badge&labelColor=1C1C1E)](https://USERNAME.dev)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-0A84FF?style=for-the-badge&labelColor=1C1C1E)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-0A84FF?style=for-the-badge&labelColor=1C1C1E)](mailto:azipangestu2009@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A84FF?style=for-the-badge&labelColor=1C1C1E)](https://linkedin.com/in/USERNAME)
 
 </div>
@@ -24,9 +24,9 @@
 
 ```js
 const developer = {
-    name:           "Your Name",
-    location:       "City, Indonesia",
-    education:      "Major — University Name",
+    name:           "Nazhif Dhiyaul Wafa Arifin",
+    location:       "Bandung, Indonesia",
+    education:      "SMA Negeri 1 Lembang",
     roles:          ["Front-End Developer", "Graphic Designer"],
     currentFocus:   [
         "React & Next.js",
@@ -34,7 +34,6 @@ const developer = {
         "UI components & design systems",
         "Visual identity & graphic design"
     ],
-    featuredWork:   "Project / Company Name",
     openTo:         ["Internships", "Freelance Work", "Collaboration"]
 };
 ```
@@ -90,13 +89,6 @@ const developer = {
 
 ---
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%2330D158" width="24" align="center" alt="" /> Featured Projects
-
-<a href="https://github.com/USERNAME/repo-1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=USERNAME&repo=repo-1&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7" alt="Project 1" /></a>
-<a href="https://github.com/USERNAME/repo-2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=USERNAME&repo=repo-2&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7" alt="Project 2" /></a>
-
----
-
 ## <img src="https://api.iconify.design/lucide:palette.svg?color=%23FF375F" width="24" align="center" alt="" /> Design Works
 
 [![Behance](https://img.shields.io/badge/Behance-View%20Work-0A84FF?style=for-the-badge&logo=behance&logoColor=0A84FF&labelColor=1C1C1E)](https://behance.net/USERNAME)
@@ -106,15 +98,15 @@ const developer = {
 
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%23BF5AF2" width="24" align="center" alt="" /> GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&ring_color=0A84FF&include_all_commits=true&count_private=true)](https://github.com/USERNAME)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&ring_color=0A84FF&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&text_color=F5F5F7&langs_count=8)](https://github.com/USERNAME)
-[![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=github-dark&hide_border=true&border_radius=20&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=F5F5F7&dates=8E8E93&currStreakNum=0A84FF&sideNums=F5F5F7)](https://github.com/USERNAME)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&text_color=F5F5F7&langs_count=8)](https://github.com/ujiphoria)
+[![Streak](https://streak-stats.demolab.com?user=ujiphoria&theme=github-dark&hide_border=true&border_radius=20&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=F5F5F7&dates=8E8E93&currStreakNum=0A84FF&sideNums=F5F5F7)](https://github.com/ujiphoria)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
 </picture>
 
 ---
@@ -122,7 +114,7 @@ const developer = {
 ## <img src="https://api.iconify.design/lucide:mail.svg?color=%2364D2FF" width="24" align="center" alt="" /> Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FUSERNAME-0A84FF?style=for-the-badge&logo=linkedin&logoColor=0A84FF&labelColor=1C1C1E)](https://linkedin.com/in/USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-%40USERNAME-0A84FF?style=for-the-badge&logo=github&logoColor=0A84FF&labelColor=1C1C1E)](https://github.com/USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-%40USERNAME-0A84FF?style=for-the-badge&logo=instagram&logoColor=0A84FF&labelColor=1C1C1E)](https://instagram.com/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%40ujiphoria-0A84FF?style=for-the-badge&logo=github&logoColor=0A84FF&labelColor=1C1C1E)](https://github.com/ujiphoria)
+[![Instagram](https://img.shields.io/badge/Instagram-%40ujiphoria-0A84FF?style=for-the-badge&logo=instagram&logoColor=0A84FF&labelColor=1C1C1E)](https://instagram.com/ujiphoria)
 [![Behance](https://img.shields.io/badge/Behance-%40USERNAME-0A84FF?style=for-the-badge&logo=behance&logoColor=0A84FF&labelColor=1C1C1E)](https://behance.net/USERNAME)
-[![Email](https://img.shields.io/badge/Email-youremail%40gmail.com-0A84FF?style=for-the-badge&logo=gmail&logoColor=0A84FF&labelColor=1C1C1E)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-azipangestu2009%40gmail.com-0A84FF?style=for-the-badge&logo=gmail&logoColor=0A84FF&labelColor=1C1C1E)](mailto:azipangestu2009@gmail.com)
