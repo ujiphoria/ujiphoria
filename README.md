@@ -34,7 +34,7 @@ const developer = {
         "Komponen UI & design system"
     ],
     proyekUnggulan: "Nama Proyek / Perusahaan",
-    terbukaUntuk:   ["Magang", "Freelance", "Kolaborasi"]
+    terbukaUntuk:   ["Internships", "Freelance Work", "Collaboration"]
 };
 ```
 
