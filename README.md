@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117)](https://github.com/USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=ujiphoria&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117)](https://github.com/USERNAME)
 
 # Ujiphoria
 
