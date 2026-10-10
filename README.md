@@ -81,13 +81,6 @@ const developer = {
 
 ---
 
-## <img src="https://api.iconify.design/tabler:rocket.svg?color=%23FFD177" width="24" align="center" alt="" /> Proyek Pilihan
-
-<a href="https://github.com/ujiphoria/repo-1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ujiphoria&repo=repo-1&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 1" /></a>
-<a href="https://github.com/ujiphoria/repo-2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ujiphoria&repo=repo-2&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 2" /></a>
-
----
-
 ## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23FFD177" width="24" align="center" alt="" /> GitHub Analytics
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujiphoria&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
