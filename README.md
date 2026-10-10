@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ujiphoria&label=Profile+Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Based%20in-Indonesia-ef4444?style=for-the-badge" alt="Indonesia" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="Open to collaboration" />
 </p>
@@ -47,9 +47,9 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
 
 | Proyek | Deskripsi | Teknologi |
 | :----- | :-------- | :-------- |
-| 🔗 **[Nama Proyek 1](https://github.com/USERNAME/repo-1)** | Deskripsi singkat proyek dalam satu kalimat. | `React` `Tailwind` |
-| 🔗 **[Nama Proyek 2](https://github.com/USERNAME/repo-2)** | Deskripsi singkat proyek dalam satu kalimat. | `HTML` `CSS` `JS` |
-| 🔗 **[Nama Proyek 3](https://github.com/USERNAME/repo-3)** | Deskripsi singkat proyek dalam satu kalimat. | `Next.js` `TypeScript` |
+| 🔗 **[Nama Proyek 1](https://github.com/ujiphoria/repo-1)** | Deskripsi singkat proyek dalam satu kalimat. | `React` `Tailwind` |
+| 🔗 **[Nama Proyek 2](https://github.com/ujiphoria/repo-2)** | Deskripsi singkat proyek dalam satu kalimat. | `HTML` `CSS` `JS` |
+| 🔗 **[Nama Proyek 3](https://github.com/ujiphoria/repo-3)** | Deskripsi singkat proyek dalam satu kalimat. | `Next.js` `TypeScript` |
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
@@ -66,22 +66,22 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ujiphoria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ujiphoria&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ujiphoria&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ### 📈 Grafik Aktivitas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujiphoria&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph" width="100%" />
 </p>
 
 ### 🐍 Ular Pemakan Kontribusi
@@ -90,7 +90,7 @@ Saya percaya bahwa produk digital terbaik lahir dari pertemuan **kode yang rapi*
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
   </picture>
 </p>
 
