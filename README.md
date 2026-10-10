@@ -98,7 +98,7 @@ const developer = {
 
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%23BF5AF2" width="24" align="center" alt="" /> GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&ring_color=0A84FF&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ujiphoria&show_icons=true&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&ring_color=0A84FF&include_all_commits=true&count_private=true)](https://github.com/ujiphoria)
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&hide_border=true&border_radius=20&bg_color=1C1C1E&title_color=0A84FF&text_color=F5F5F7&langs_count=8)](https://github.com/ujiphoria)
 [![Streak](https://streak-stats.demolab.com?user=ujiphoria&theme=github-dark&hide_border=true&border_radius=20&background=1C1C1E&ring=0A84FF&fire=FF9F0A&currStreakLabel=0A84FF&sideLabels=F5F5F7&dates=8E8E93&currStreakNum=0A84FF&sideNums=F5F5F7)](https://github.com/ujiphoria)
