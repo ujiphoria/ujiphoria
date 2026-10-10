@@ -1,96 +1,111 @@
-<!-- Ganti semua "USERNAME" dengan username GitHub kamu, dan "Nama Kamu" dengan namamu -->
+<!-- Ganti semua "USERNAME" dengan username GitHub kamu. Warna aksen: FFD177 (kuning emas), ganti jika ingin warna lain. -->
 
-<!-- ===== HEADER ANIMASI (file lokal) ===== -->
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Header" />
-</p>
+<div align="center">
 
-<!-- ===== TEKS MENGETIK ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=%F0%9F%91%8B+Hai%2C+selamat+datang+di+profil+saya!;%F0%9F%92%BB+Membangun+antarmuka+yang+hidup;%E2%9A%A1+Website+cepat+dan+responsif;%E2%9C%A8+Clean+code%2C+pixel-perfect+UI" alt="Typing SVG" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=FFD177&style=flat-square&labelColor=0d1117)](https://github.com/USERNAME)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Based%20in-Indonesia-ef4444?style=for-the-badge" alt="Indonesia" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" alt="Open to collaboration" />
-</p>
+# Ujiphoria
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+#### Front-End Developer | UI Enthusiast
 
-## ✨ Tentang Saya
+[![Typing Header](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=17&duration=3000&pause=1200&color=FFD177&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Membangun+antarmuka+web+yang+cepat+dan+mudah+diakses;Mengubah+desain+menjadi+UI+yang+pixel-perfect;Terus+belajar+teknologi+front-end+terbaru;Terbuka+untuk+magang%2C+freelance%2C+dan+kolaborasi)](https://github.com/USERNAME)
 
-Saya **Front-End Developer** yang senang mengubah desain menjadi website yang cepat, responsif, dan nyaman digunakan.
+<img src="https://api.iconify.design/tabler:map-pin.svg?color=%23FFD177" height="16" alt="Lokasi" /> Bandunf, Indonesia &nbsp;·&nbsp; <img src="https://api.iconify.design/tabler:school.svg?color=%23FFD177" height="16" alt="Pendidikan" /> Jurusan, Nama Universitas
 
-- 💻 Membangun antarmuka web yang rapi, mudah dirawat, dan enak dipakai.
-- ⚡ Peduli pada performa, aksesibilitas, dan detail kecil yang membuat pengalaman terasa halus.
-- 🌱 Sedang terus belajar dan mengeksplorasi teknologi front-end terbaru.
-- 🤝 Terbuka untuk kolaborasi, proyek open source, dan diskusi seputar pengembangan web.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Karya-FFD177?style=for-the-badge&labelColor=0d1117)](https://USERNAME.dev)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-FFD177?style=for-the-badge&labelColor=0d1117)](mailto:emailkamu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD177?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/USERNAME)
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 
-## 🛠️ Tech Stack
+---
 
-<h3 align="center">💻 Front-End</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" alt="Front-end skills" />
-</p>
+## <img src="https://api.iconify.design/tabler:user-star.svg?color=%23FFD177" width="24" align="center" alt="" /> Tentang Saya & Pengalaman
 
-<h3 align="center">🧰 Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vercel,netlify&perline=6" alt="Tools" />
-</p>
+```js
+const developer = {
+    nama:           "Nazhif Dhiyaul Wafa Arifin",
+    lokasi:         "Kota, Indonesia",
+    pendidikan:     "Jurusan — Nama Universitas",
+    peran:          ["Front-End Developer"],
+    fokusSaatIni:   [
+        "React & Next.js",
+        "Performa & aksesibilitas web",
+        "Komponen UI & design system"
+    ],
+    proyekUnggulan: "Nama Proyek / Perusahaan",
+    terbukaUntuk:   ["Magang", "Freelance", "Kolaborasi"]
+};
+```
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+> 💡 **Dari desain ke pengalaman nyata:** Tulis 2 sampai 3 kalimat tentang perjalananmu, misalnya proyek yang paling kamu banggakan dan apa yang kamu pelajari darinya. Sebut hasil nyatanya, seperti jumlah pengguna, peningkatan performa, atau masalah yang berhasil kamu selesaikan.
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+**💬 Tanya saya tentang perjalanan & pengalaman saya**
 
-## 📊 GitHub Stats
+| Bidang                     | Yang bisa saya bagikan                                                                  |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| **UI & Komponen**          | Membangun komponen yang reusable, konsisten, dan mudah dirawat.                         |
+| **Performa Web**           | Optimasi loading, ukuran bundle, dan Core Web Vitals.                                   |
+| **Aksesibilitas**          | Membuat antarmuka yang bisa dipakai semua orang (semantic HTML, ARIA, keyboard nav).    |
+| **Responsive Design**      | Layout yang rapi dari layar ponsel sampai desktop.                                      |
+| **Workflow Developer**     | Git, code review, dan deployment otomatis ke Vercel / Netlify.                          |
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ujiphoria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujiphoria&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ujiphoria&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+## <img src="https://api.iconify.design/tabler:tools.svg?color=%23FFD177" width="24" align="center" alt="" /> Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujiphoria&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</p>
+[![HTML5](https://api.iconify.design/simple-icons:html5.svg?color=%23FFD177 "HTML5")](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://api.iconify.design/simple-icons:css.svg?color=%23FFD177 "CSS")](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://api.iconify.design/simple-icons:javascript.svg?color=%23FFD177 "JavaScript")](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://api.iconify.design/simple-icons:typescript.svg?color=%23FFD177 "TypeScript")](https://www.typescriptlang.org)
+[![React](https://api.iconify.design/simple-icons:react.svg?color=%23FFD177 "React")](https://react.dev)
+[![Vue.js](https://api.iconify.design/simple-icons:vuedotjs.svg?color=%23FFD177 "Vue.js")](https://vuejs.org)
+[![Next.js](https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23FFD177 "Next.js")](https://nextjs.org)
+[![Vite](https://api.iconify.design/simple-icons:vite.svg?color=%23FFD177 "Vite")](https://vitejs.dev)
 
-### 📈 Grafik Aktivitas
+[![TailwindCSS](https://api.iconify.design/simple-icons:tailwindcss.svg?color=%23FFD177 "TailwindCSS")](https://tailwindcss.com)
+[![Sass](https://api.iconify.design/simple-icons:sass.svg?color=%23FFD177 "Sass")](https://sass-lang.com)
+[![Bootstrap](https://api.iconify.design/simple-icons:bootstrap.svg?color=%23FFD177 "Bootstrap")](https://getbootstrap.com)
+[![Framer](https://api.iconify.design/simple-icons:framer.svg?color=%23FFD177 "Framer Motion")](https://www.framer.com/motion)
+[![Storybook](https://api.iconify.design/simple-icons:storybook.svg?color=%23FFD177 "Storybook")](https://storybook.js.org)
+[![Figma](https://api.iconify.design/simple-icons:figma.svg?color=%23FFD177 "Figma")](https://figma.com)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujiphoria&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph" width="100%" />
-</p>
+[![Git](https://api.iconify.design/simple-icons:git.svg?color=%23FFD177 "Git")](https://git-scm.com)
+[![GitHub](https://api.iconify.design/simple-icons:github.svg?color=%23FFD177 "GitHub")](https://github.com)
+[![npm](https://api.iconify.design/simple-icons:npm.svg?color=%23FFD177 "npm")](https://npmjs.com)
+[![ESLint](https://api.iconify.design/simple-icons:eslint.svg?color=%23FFD177 "ESLint")](https://eslint.org)
+[![Prettier](https://api.iconify.design/simple-icons:prettier.svg?color=%23FFD177 "Prettier")](https://prettier.io)
+[![Vitest](https://api.iconify.design/simple-icons:vitest.svg?color=%23FFD177 "Vitest")](https://vitest.dev)
+[![Vercel](https://api.iconify.design/simple-icons:vercel.svg?color=%23FFD177 "Vercel")](https://vercel.com)
+[![Netlify](https://api.iconify.design/simple-icons:netlify.svg?color=%23FFD177 "Netlify")](https://netlify.com)
 
-### 🐍 Ular Pemakan Kontribusi
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ujiphoria/ujiphoria/output/github-snake.svg" />
-  </picture>
-</p>
+## <img src="https://api.iconify.design/tabler:rocket.svg?color=%23FFD177" width="24" align="center" alt="" /> Proyek Pilihan
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<a href="https://github.com/USERNAME/repo-1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=USERNAME&repo=repo-1&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 1" /></a>
+<a href="https://github.com/USERNAME/repo-2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=USERNAME&repo=repo-2&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9" alt="Proyek 2" /></a>
 
-## 📫 Mari Terhubung
+---
 
-<p align="center">
-  <a href="mailto:azipangestu2009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ujiphoria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://USERNAME.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-</p>
+## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23FFD177" width="24" align="center" alt="" /> GitHub Analytics
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=%22Make+it+work.%22;%22Make+it+right.%22;%22Make+it+fast.%22" alt="Quote" />
-</p>
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD177&icon_color=FFD177&text_color=c9d1d9&ring_color=FFD177&include_all_commits=true&count_private=true)](https://github.com/USERNAME)
 
-<!-- ===== FOOTER ANIMASI (file lokal) ===== -->
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Footer" />
-</p>
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD177&text_color=c9d1d9&langs_count=8)](https://github.com/USERNAME)
+[![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=github-dark&hide_border=true&background=0D1117&ring=FFD177&fire=FFD177&currStreakLabel=FFD177&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFD177&sideNums=FFD177)](https://github.com/USERNAME)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+</picture>
+
+---
+
+## <img src="https://api.iconify.design/tabler:mail.svg?color=%23FFD177" width="24" align="center" alt="" /> Kontak
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2FUSERNAME-FFD177?style=for-the-badge&logo=linkedin&logoColor=FFD177&labelColor=0d1117)](https://linkedin.com/in/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%40USERNAME-FFD177?style=for-the-badge&logo=github&logoColor=FFD177&labelColor=0d1117)](https://github.com/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-%40USERNAME-FFD177?style=for-the-badge&logo=instagram&logoColor=FFD177&labelColor=0d1117)](https://instagram.com/USERNAME)
+[![Email](https://img.shields.io/badge/Email-emailkamu%40gmail.com-FFD177?style=for-the-badge&logo=gmail&logoColor=FFD177&labelColor=0d1117)](mailto:emailkamu@gmail.com)
