@@ -53,7 +53,7 @@ Saya **Front-End Developer** yang senang mengubah desain menjadi website yang ce
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ujiphoria&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
